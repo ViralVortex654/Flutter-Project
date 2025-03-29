@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+Samjad new Flutter project.
 
 ## Getting Started
 
