@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'package:myapp/widgets/drawer.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
@@ -10,11 +10,18 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Ecommerce App"),
+        // backgroundColor: Colors.white,
+        // elevation: 0.0,
+
+        title: Text("Ecommerce App", style: TextStyle(color: Colors.blue),),
+
       ),
       body: Center(
         child: Text("Welcome to $name Ecommerce App ")),
-    drawer: Drawer(),
+    drawer: MyDrawer(),
     );
   }
 }
+
+
+
