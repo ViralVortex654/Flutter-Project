@@ -1,98 +1,98 @@
 {
     "products": [
       {
-        "id": "P1",
+        "id": 1,
         "name": "Apple iPhone 14 Pro",
         "desc": "Latest Apple smartphone featuring a Pro camera system and A16 chip.",
-        "color": "Space Black",
+        "color": "#1C1C1E",
         "price": 999.99,
         "image": "https://example.com/images/iphone14pro.jpg"
       },
       {
-        "id": "P2",
+        "id": 2,
         "name": "Samsung Galaxy S22 Ultra",
         "desc": "Premium Android smartphone with S-Pen support and 108MP camera.",
-        "color": "Phantom Black",
+        "color": "#000000",
         "price": 1199.99,
         "image": "https://example.com/images/galaxys22ultra.jpg"
       },
       {
-        "id": "P3",
+        "id": 3,
         "name": "Google Pixel 7 Pro",
         "desc": "Google's flagship phone with outstanding camera performance and clean software.",
-        "color": "Obsidian",
+        "color": "#3B3B3B",
         "price": 899.99,
         "image": "https://example.com/images/pixel7pro.jpg"
       },
       {
-        "id": "P4",
+        "id": 4,
         "name": "OnePlus 10 Pro",
         "desc": "High-performance smartphone known for its fast charging and smooth display.",
-        "color": "Emerald Forest",
+        "color": "#50C878",
         "price": 799.99,
         "image": "https://example.com/images/oneplus10pro.jpg"
       },
       {
-        "id": "P5",
+        "id": 5,
         "name": "Sony WH-1000XM4 Headphones",
         "desc": "Industry-leading noise cancellation and immersive sound quality.",
-        "color": "Silver",
+        "color": "#C0C0C0",
         "price": 349.99,
         "image": "https://example.com/images/sonywh1000xm4.jpg"
       },
       {
-        "id": "P6",
+        "id": 6,
         "name": "Bose QuietComfort 45",
         "desc": "Over-ear headphones delivering superior comfort and noise cancellation.",
-        "color": "Black",
+        "color": "#000000",
         "price": 329.99,
         "image": "https://example.com/images/boseqc45.jpg"
       },
       {
-        "id": "P7",
+        "id": 7,
         "name": "Dell XPS 15",
         "desc": "High-end laptop with a stunning 4K display and powerful performance.",
-        "color": "Platinum Silver",
+        "color": "#E5E4E2",
         "price": 1499.99,
         "image": "https://example.com/images/dellxps15.jpg"
       },
       {
-        "id": "P8",
+        "id": 8,
         "name": "Apple MacBook Pro 16-inch",
         "desc": "Powerful laptop featuring the latest M1 Pro/Max chip for intensive workflows.",
-        "color": "Space Gray",
+        "color": "#4B4B4B",
         "price": 2499.99,
         "image": "https://example.com/images/macbookpro16.jpg"
       },
       {
-        "id": "P9",
+        "id": 9,
         "name": "HP Spectre x360 14",
         "desc": "Convertible laptop with premium design and versatile functionality.",
-        "color": "Nightfall Black",
+        "color": "#0D0D0D",
         "price": 1399.99,
         "image": "https://example.com/images/hpspectrex360.jpg"
       },
       {
-        "id": "P10",
+        "id": 10,
         "name": "Microsoft Surface Pro 8",
         "desc": "Versatile 2-in-1 device featuring a high-resolution touchscreen and detachable keyboard.",
-        "color": "Platinum",
+        "color": "#E5E4E2",
         "price": 1099.99,
         "image": "https://example.com/images/surfacepro8.jpg"
       },
       {
-        "id": "P11",
+        "id": 11,
         "name": "Apple AirPods Pro",
         "desc": "Wireless earbuds with active noise cancellation and superior sound.",
-        "color": "White",
+        "color": "#FFFFFF",
         "price": 249.99,
         "image": "https://example.com/images/airpodspro.jpg"
       },
       {
-        "id": "P12",
+        "id": 12,
         "name": "Samsung Galaxy Buds Pro",
         "desc": "High-quality wireless earbuds with intelligent noise control.",
-        "color": "Mystic Black",
+        "color": "#1A1A1A",
         "price": 199.99,
         "image": "https://example.com/images/galaxybudspro.jpg"
       }

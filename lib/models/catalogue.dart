@@ -6,7 +6,7 @@ class CatalogModel {
     desc: "Latest Apple smartphone featuring a Pro camera system and A16 chip.",
     color: "#1C1C1E",
     price: 999.0,
-    image: "/home/user/myapp/assets/images/catalogue Products/Apple iPhone 14 Pro.png"
+    image: "assets/images/catalogue Products/Apple_iPhone_14_Pro.png"
   )
   ];
 }
