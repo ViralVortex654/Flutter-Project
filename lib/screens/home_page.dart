@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:myapp/models/catalogue.dart';
 import 'package:myapp/widgets/drawer.dart';
+import 'package:myapp/widgets/item_widget.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
@@ -16,8 +18,12 @@ class HomePage extends StatelessWidget {
         title: Text("Ecommerce App", style: TextStyle(color: Colors.blue),),
 
       ),
-      body: Center(
-        child: Text("Welcome to $name Ecommerce App ")),
+      body: ListView.builder(
+        itemCount: CatalogModel.items.length,
+        itemBuilder: (context, index){
+          return ItemWidget(item: CatalogModel.items[index],);
+        }
+        ),
     drawer: MyDrawer(),
     );
   }

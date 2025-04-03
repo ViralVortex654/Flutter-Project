@@ -5,7 +5,7 @@
         "name": "Apple iPhone 14 Pro",
         "desc": "Latest Apple smartphone featuring a Pro camera system and A16 chip.",
         "color": "Space Black",
-        "price": "999.99",
+        "price": 999.99,
         "image": "https://example.com/images/iphone14pro.jpg"
       },
       {
@@ -13,7 +13,7 @@
         "name": "Samsung Galaxy S22 Ultra",
         "desc": "Premium Android smartphone with S-Pen support and 108MP camera.",
         "color": "Phantom Black",
-        "price": "1199.99",
+        "price": 1199.99,
         "image": "https://example.com/images/galaxys22ultra.jpg"
       },
       {
@@ -21,7 +21,7 @@
         "name": "Google Pixel 7 Pro",
         "desc": "Google's flagship phone with outstanding camera performance and clean software.",
         "color": "Obsidian",
-        "price": "899.99",
+        "price": 899.99,
         "image": "https://example.com/images/pixel7pro.jpg"
       },
       {
@@ -29,7 +29,7 @@
         "name": "OnePlus 10 Pro",
         "desc": "High-performance smartphone known for its fast charging and smooth display.",
         "color": "Emerald Forest",
-        "price": "799.99",
+        "price": 799.99,
         "image": "https://example.com/images/oneplus10pro.jpg"
       },
       {
@@ -37,7 +37,7 @@
         "name": "Sony WH-1000XM4 Headphones",
         "desc": "Industry-leading noise cancellation and immersive sound quality.",
         "color": "Silver",
-        "price": "349.99",
+        "price": 349.99,
         "image": "https://example.com/images/sonywh1000xm4.jpg"
       },
       {
@@ -45,7 +45,7 @@
         "name": "Bose QuietComfort 45",
         "desc": "Over-ear headphones delivering superior comfort and noise cancellation.",
         "color": "Black",
-        "price": "329.99",
+        "price": 329.99,
         "image": "https://example.com/images/boseqc45.jpg"
       },
       {
@@ -53,7 +53,7 @@
         "name": "Dell XPS 15",
         "desc": "High-end laptop with a stunning 4K display and powerful performance.",
         "color": "Platinum Silver",
-        "price": "1499.99",
+        "price": 1499.99,
         "image": "https://example.com/images/dellxps15.jpg"
       },
       {
@@ -61,7 +61,7 @@
         "name": "Apple MacBook Pro 16-inch",
         "desc": "Powerful laptop featuring the latest M1 Pro/Max chip for intensive workflows.",
         "color": "Space Gray",
-        "price": "2499.99",
+        "price": 2499.99,
         "image": "https://example.com/images/macbookpro16.jpg"
       },
       {
@@ -69,7 +69,7 @@
         "name": "HP Spectre x360 14",
         "desc": "Convertible laptop with premium design and versatile functionality.",
         "color": "Nightfall Black",
-        "price": "1399.99",
+        "price": 1399.99,
         "image": "https://example.com/images/hpspectrex360.jpg"
       },
       {
@@ -77,7 +77,7 @@
         "name": "Microsoft Surface Pro 8",
         "desc": "Versatile 2-in-1 device featuring a high-resolution touchscreen and detachable keyboard.",
         "color": "Platinum",
-        "price": "1099.99",
+        "price": 1099.99,
         "image": "https://example.com/images/surfacepro8.jpg"
       },
       {
@@ -85,7 +85,7 @@
         "name": "Apple AirPods Pro",
         "desc": "Wireless earbuds with active noise cancellation and superior sound.",
         "color": "White",
-        "price": "249.99",
+        "price": 249.99,
         "image": "https://example.com/images/airpodspro.jpg"
       },
       {
@@ -93,72 +93,8 @@
         "name": "Samsung Galaxy Buds Pro",
         "desc": "High-quality wireless earbuds with intelligent noise control.",
         "color": "Mystic Black",
-        "price": "199.99",
+        "price": 199.99,
         "image": "https://example.com/images/galaxybudspro.jpg"
-      },
-      {
-        "id": "P13",
-        "name": "Sony PlayStation 5",
-        "desc": "Next-generation gaming console with immersive graphics and speed.",
-        "color": "White",
-        "price": "499.99",
-        "image": "https://example.com/images/ps5.jpg"
-      },
-      {
-        "id": "P14",
-        "name": "Xbox Series X",
-        "desc": "High-performance gaming console offering 4K gaming and fast load times.",
-        "color": "Black",
-        "price": "499.99",
-        "image": "https://example.com/images/xboxseriesx.jpg"
-      },
-      {
-        "id": "P15",
-        "name": "Nintendo Switch OLED",
-        "desc": "Enhanced handheld gaming console with a vibrant OLED display.",
-        "color": "White",
-        "price": "349.99",
-        "image": "https://example.com/images/switcholed.jpg"
-      },
-      {
-        "id": "P16",
-        "name": "Canon EOS R5",
-        "desc": "Professional mirrorless camera offering 8K video and high-resolution stills.",
-        "color": "Black",
-        "price": "3899.99",
-        "image": "https://example.com/images/canoneosr5.jpg"
-      },
-      {
-        "id": "P17",
-        "name": "Nikon Z6 II",
-        "desc": "Versatile full-frame mirrorless camera ideal for photography and videography.",
-        "color": "Black",
-        "price": "1999.99",
-        "image": "https://example.com/images/nikonz6ii.jpg"
-      },
-      {
-        "id": "P18",
-        "name": "GoPro HERO11",
-        "desc": "Durable action camera designed for extreme sports and adventures.",
-        "color": "Black",
-        "price": "399.99",
-        "image": "https://example.com/images/goprohero11.jpg"
-      },
-      {
-        "id": "P19",
-        "name": "DJI Mavic Air 2",
-        "desc": "Compact drone featuring advanced obstacle sensing and 4K video recording.",
-        "color": "Gray",
-        "price": "799.99",
-        "image": "https://example.com/images/djimavicair2.jpg"
-      },
-      {
-        "id": "P20",
-        "name": "Fitbit Versa 3",
-        "desc": "Smartwatch with advanced fitness tracking and health monitoring features.",
-        "color": "Black",
-        "price": "229.99",
-        "image": "https://example.com/images/fitbitversa3.jpg"
       }
     ]
   }
